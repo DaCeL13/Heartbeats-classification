@@ -1,5 +1,5 @@
 # Heartbeats-classification
-![BannerProyectoIA](https://github.com/DaCeL13/Heartbeats-classification/blob/main/BannerProyectoIA.png "Sementacion Plasmodium Falciparum")
+![BannerProyectoIA](https://github.com/DaCeL13/Heartbeats-classification/blob/main/BannerProyectoIA2.png "Sementacion Plasmodium Falciparum")
 
 Autor: Kevin Santiago Gutierrez Mendez
 
