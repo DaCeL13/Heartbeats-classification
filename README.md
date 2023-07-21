@@ -7,10 +7,10 @@ Objetivo: Implementar metodos de Machine Learning y aprendizaje profundo para fa
 
 Dataset: El dataset utilizado fue "The {PASCAL} {C}lassifying {H}eart {S}ounds {C}hallenge 2011" , el cual esta compuesto por archivos de audio de latidos de corazon normales, soplo de corazon, sonidos extra y ruido. El dataset puede ser descargado en el siguiente [enlace](http://www.peterjbentley.com/heartchallenge/).
 
-Modelos: 
+Modelos: CNN (Convolucional Neural Network)
 
-Codigo: 
+Codigo: https://github.com/DaCeL13/Heartbeats-classification/blob/main/Heartbeats_classification.ipynb
 
-Video: 
+Video: https://youtu.be/LO0feUFsGgw
 
-Repositorio: 
+Repositorio: https://github.com/DaCeL13/Heartbeats-classification/tree/main
